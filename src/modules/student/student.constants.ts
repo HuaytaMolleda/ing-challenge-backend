@@ -1,0 +1,1 @@
+export const STUDENT_MODEL = "student-model"
